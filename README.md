@@ -101,8 +101,8 @@ The test indicated a statistically significant difference between the two groups
 
 ```text
 hotel-booking-cancellation-analysis/
-├── data/
-│   └── README.md
+├── dataset/
+│   └── hotel_booking.csv
 ├── images/
 │   ├── cancellation_by_market.png
 │   ├── lead_time_distribution.png
@@ -110,5 +110,4 @@ hotel-booking-cancellation-analysis/
 ├── hotel_booking_cancellation_analysis.ipynb
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-└── LICENSE
+└── .gitignore
