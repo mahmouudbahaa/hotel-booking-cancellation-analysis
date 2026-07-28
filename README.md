@@ -71,7 +71,7 @@ The dataset is not included in this repository. Download it and place it inside 
 
 ### Lead Time Distribution by Cancellation Status
 
-![Lead Time Distribution](images/lead_time_distribution.png)
+![Lead Time Distribution](images/Lead_time_distribution_by_cancellation_status.png)
 
 ### Cancellation Rate by Lead Time Segment
 
