@@ -17,6 +17,10 @@ Hotel cancellations reduce occupancy predictability and may result in potential 
 - Validate the observed difference using statistical testing.
 - Provide actionable business recommendations.
 
+## Power BI Dashboard
+
+![Dashboard](images/dashboard_overview.png)
+
 ## Dataset
 
 The dataset contains hotel reservations from City Hotel and Resort Hotel, including:
