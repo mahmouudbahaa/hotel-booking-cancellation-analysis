@@ -110,6 +110,7 @@ hotel-booking-cancellation-analysis/
 ├── images/
 │   ├── cancellation_by_market.png
 │   ├── lead_time_distribution.png
+│   ├── dashboard_overview.png
 │   └── cancellation_by_lead_time.png
 ├── hotel_booking_cancellation_analysis.ipynb
 ├── README.md
